@@ -2,22 +2,20 @@
 layout: about
 title: about
 permalink: /
-description: <a href="#">Affiliations</a>. Address. Contacts. Moto. Etc.
+description:
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: profile.jpeg
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
 
 news: true
-social: true
+social: false
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com){:target="\_blank"}. You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+¡Hola! I am a PhD student in the Department of Hispanic Languages and Literatures at the [University of Pittsburgh](https://www.hispanic.pitt.edu). I am interested in deterioration in contemporary Venezuelan narrative and poetry. Earlier, I received an MA in Hispanic Linguistics as well as a BS in Computer Science and Spanish at the University of Toronto. 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+You can find my most recent CV [here](/assets/pdf/CV.pdf) and my Google Scholar here. Feel free to reach out to me at <alt159@pitt.edu>.  
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/){:target="\_blank"} and [Academicons](https://jpswalsh.github.io/academicons/){:target="\_blank"}, like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+This page is still a work in construction, thank you for your patience! 
+
